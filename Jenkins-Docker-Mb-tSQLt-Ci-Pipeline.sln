@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Jenkins-Docker-Mb-tSQLt-Ci-Pipeline", "Jenkins-Docker-Mb-tSQLt-Ci-Pipeline\Jenkins-Docker-Mb-tSQLt-Ci-Pipeline.sqlproj", "{60E9FB7D-A6C2-4418-BDCC-B97160CB32AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E9FB7D-A6C2-4418-BDCC-B97160CB32AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E9FB7D-A6C2-4418-BDCC-B97160CB32AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E9FB7D-A6C2-4418-BDCC-B97160CB32AF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{60E9FB7D-A6C2-4418-BDCC-B97160CB32AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E9FB7D-A6C2-4418-BDCC-B97160CB32AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E9FB7D-A6C2-4418-BDCC-B97160CB32AF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6213C1F4-6EFF-49A2-8A93-21B8FDEF97EC}
+	EndGlobalSection
+EndGlobal
