@@ -4,6 +4,7 @@ def GetNextFreePort() {
 }
 
 def StartContainer() {
+    PORT_NUMBER = GetNextFreePort()
     bat "docker run -e \"ACCEPT_EULA=Y\" -e \"SA_PASSWORD=P@ssword1\" --name=${CONTAINER_NAME} -d -i -p ${PORT_NUMBER}:1433 microsoft/mssql-server-linux:2017-GA"    
     powershell "While (\$((docker logs ${CONTAINER_NAME} | select-string ready | select-string client).Length) -eq 0) { Start-Sleep -s 1 }"    
     bat "sqlcmd -S localhost,${PORT_NUMBER} -U sa -P P@ssword1 -Q \"EXEC sp_configure 'show advanced option', '1';RECONFIGURE\""
@@ -33,7 +34,7 @@ pipeline {
     agent any
     
     environment {
-        PORT_NUMBER    = GetNextFreePort()
+        PORT_NUMBER    = 0
         SCM_PROJECT    = GetScmProjectName()
         CONTAINER_NAME = "SQLLinux${BRANCH_NAME}"
     }
@@ -61,7 +62,9 @@ pipeline {
             steps {
                 RemoveContainer()
                 timeout(time: 20, unit: 'SECONDS') {
-                    StartContainer()
+                    lock ('create SQL Server container') {
+                        StartContainer()
+                    }
                 }
             }
         }
