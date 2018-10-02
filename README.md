@@ -26,7 +26,7 @@
 
 ![groovy](https://user-images.githubusercontent.com/15145995/46346633-8f594900-c640-11e8-88f7-f08f8ccf81f3.PNG)
 
-# Result Rendering In Jenkins Blue Ocean GUI
+# Result Rendering In The Jenkins Blue Ocean GUI
 
 ## When The Tests Pass (Happy Path)
 
