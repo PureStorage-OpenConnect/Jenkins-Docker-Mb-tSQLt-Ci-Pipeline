@@ -30,6 +30,10 @@
 
 ## When The Tests Pass (Happy Path)
 
+![happy path](https://user-images.githubusercontent.com/15145995/46347073-2b378480-c642-11e8-86cc-89dbb64c6e53.PNG)
+
+![happy path tests](https://user-images.githubusercontent.com/15145995/46347080-2e327500-c642-11e8-8d0e-7cb5d90c01fb.PNG)
+
 ## When The Tests Fail (Unhappy Path)
 
 ## Where Post Actions Are Handled
