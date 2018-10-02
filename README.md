@@ -24,7 +24,7 @@
 
 ## Code To Run Happy / Unhappy Path Tests
 
-![groovy](https://user-images.githubusercontent.com/15145995/46346633-8f594900-c640-11e8-88f7-f08f8ccf81f3.PNG)
+![groovy](https://user-images.githubusercontent.com/15145995/46347222-b284f800-c642-11e8-8d6e-ccbc53f4815a.PNG)
 
 # Result Rendering In The Jenkins Blue Ocean GUI
 
