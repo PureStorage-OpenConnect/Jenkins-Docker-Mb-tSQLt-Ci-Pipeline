@@ -36,6 +36,10 @@
 
 ## When The Tests Fail (Unhappy Path)
 
+![unhappy path](https://user-images.githubusercontent.com/15145995/46347126-5621d880-c642-11e8-97cb-e69d236f295c.PNG)
+
+![unhappy path tests](https://user-images.githubusercontent.com/15145995/46347129-58843280-c642-11e8-9765-996308fb8ae9.PNG)
+
 ## Where Post Actions Are Handled
 
 ![post actions](https://user-images.githubusercontent.com/15145995/46346646-96805700-c640-11e8-9410-991e4095ca33.PNG)
