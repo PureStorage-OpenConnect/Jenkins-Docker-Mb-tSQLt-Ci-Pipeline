@@ -14,10 +14,10 @@
 ---
 # Points Of Interest In the Pipeline Code
 ---
-## Prepping Container For CRL
+## Prepping Container For CLR
 ![prepping container](https://user-images.githubusercontent.com/15145995/46346624-8a949500-c640-11e8-9ba6-15041fb8e9d2.PNG)
 ---
-## (Un)Happy Path Code
+## Happy/Unhappy Path Code
 ![groovy](https://user-images.githubusercontent.com/15145995/46347222-b284f800-c642-11e8-8d6e-ccbc53f4815a.PNG)
 ---
 # Result Rendering In The Jenkins Blue Ocean GUI
