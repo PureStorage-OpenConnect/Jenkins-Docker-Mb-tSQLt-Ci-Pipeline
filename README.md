@@ -39,6 +39,7 @@
 ---
 ## Unhappy Path :-(
 ![unhappy path tests](https://user-images.githubusercontent.com/15145995/46347129-58843280-c642-11e8-9765-996308fb8ae9.PNG)
+
 ---
 ## Handling Post Actions
 ![post actions](https://user-images.githubusercontent.com/15145995/46346646-96805700-c640-11e8-9410-991e4095ca33.PNG)
