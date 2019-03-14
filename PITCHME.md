@@ -27,16 +27,13 @@
 
 ![happy path tests](https://user-images.githubusercontent.com/15145995/46347080-2e327500-c642-11e8-8d0e-7cb5d90c01fb.PNG)
 ---
-## When The Tests Fail (Unhappy Path)
-
+## Fail :-( !
 ![unhappy path](https://user-images.githubusercontent.com/15145995/46347126-5621d880-c642-11e8-97cb-e69d236f295c.PNG)
 
 ![unhappy path tests](https://user-images.githubusercontent.com/15145995/46347129-58843280-c642-11e8-9765-996308fb8ae9.PNG)
-
-## Where Post Actions Are Handled
-
+---
+## Handling Post Actions
 ![post actions](https://user-images.githubusercontent.com/15145995/46346646-96805700-c640-11e8-9410-991e4095ca33.PNG)
-
-# Post Of Interest In This Repo
-
+---
+# Post Of Interest
 ![points of interest](https://user-images.githubusercontent.com/15145995/46346675-b0ba3500-c640-11e8-80a6-3b9614a55d61.PNG)
