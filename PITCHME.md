@@ -35,5 +35,5 @@
 ## Handling Post Actions
 ![post actions](https://user-images.githubusercontent.com/15145995/46346646-96805700-c640-11e8-9410-991e4095ca33.PNG)
 ---
-# Post Of Interest
+# Points Of Interest
 ![points of interest](https://user-images.githubusercontent.com/15145995/46346675-b0ba3500-c640-11e8-80a6-3b9614a55d61.PNG)
