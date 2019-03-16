@@ -2,7 +2,7 @@
 ![tsqlt testing 101](https://user-images.githubusercontent.com/15145995/46346579-620c9b00-c640-11e8-8736-669a6a7ef0fa.PNG)
 ---
 # Pipeline
-![pipeline](https://user-images.githubusercontent.com/15145995/46346659-a4ce7300-c640-11e8-8c47-37393faa0870.PNG)
+![pipeline](https://user-images.githubusercontent.com/15145995/54473795-78fd0f00-47d4-11e9-82c9-f91cb4746718.png)
 ---
 # Test Procedures
 ---
