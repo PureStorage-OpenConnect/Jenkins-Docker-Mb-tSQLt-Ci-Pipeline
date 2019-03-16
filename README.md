@@ -5,7 +5,7 @@
 
 ---
 # This Pipeline
-![pipeline](https://user-images.githubusercontent.com/15145995/46346659-a4ce7300-c640-11e8-8c47-37393faa0870.PNG)
+![pipeline](https://user-images.githubusercontent.com/15145995/54473876-941c4e80-47d5-11e9-8d2a-883e33d81fa3.png)
 ---
 # Test Procedures
 ---
