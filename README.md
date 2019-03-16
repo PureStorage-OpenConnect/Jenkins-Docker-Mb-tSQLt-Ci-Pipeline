@@ -1,7 +1,7 @@
 ---
 # tSQLt 101
 ---
-![tsqlt testing 101](https://user-images.githubusercontent.com/15145995/46346579-620c9b00-c640-11e8-8736-669a6a7ef0fa.PNG)
+![tsqlt testing 101](https://user-images.githubusercontent.com/15145995/54474233-77364a00-47da-11e9-8c40-2e1a5953f223.png)
 
 ---
 # This Pipeline
